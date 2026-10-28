@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "HuBX5_Dgi-taC1mr",
+      "n": "mlhDhkFvsH4UrWN5WtAjlK42uBKx24LVTZwSjkEPCQ6UDsMhlbny1FG_Ot8ic4yuP88YeUkMrRsaOJ-w5iuwE4ellSu4AmxIAmPMGBoT2Hf8x0kCrCY-WQDTow0TEkuRDCY2rpDdf9mNWhF1grYyGMdhzOh0BitzT64fEUn5hD6d5wme5OAvL_bguLHLFKR60qmhCiQkVostykVh4ttTaSp-JOywOw-hDdpUj-YC-czRQw8o2CGdsOoaMFwJRVh-dDtWqvBmX49neYzRzMmAwLu4QZ_g18jn0P3zxy0OtamWOfFwXqxNs6NEFUlHqQ7R2Ng0Dj2LNHpvSj7hAhUh3w",
+      "e": "AQAB"
+    }
+  ]
+}
